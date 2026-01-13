@@ -1,5 +1,5 @@
-- 🧑🏻‍🎓 atualmente em Desenvolvimento de Sistemas: 1/3
-- 📩 fale comigo através do email:
+- 🧑🏻‍🎓 atualmente em Desenvolvimento de Sistemas: 2/3
+- 📩 fale comigo através do email: victorbarbosalima726@gmail.com
 
 ## Linguagem mais trabalhadas em repositórios:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elPKzerra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
