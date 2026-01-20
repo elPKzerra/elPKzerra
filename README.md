@@ -1,8 +1,11 @@
 - 🧑🏻‍🎓 atualmente em Desenvolvimento de Sistemas: 2/3
 - 📩 fale comigo através do email: victorbarbosalima726@gmail.com
 
-## Linguagem mais trabalhadas em repositórios:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elPKzerra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+## Linguagem que possuo conhecimento:
+[![My Skills](https://skillicons.dev/icons?i=js,c,cs,git,mysql)](https://skillicons.dev)
 
 ##comprometimento com a plataforma: 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elPKzerra&show_icons=true&theme=radical)
