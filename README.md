@@ -4,7 +4,7 @@
 Desenvolvedor **Full Stack** em formação.
 
 ## linguagens:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,mysql,nodejs)](https://skillicons.dev)
 
 ## ferramentas:
 [![My Skills](https://skillicons.dev/icons?i=figma,git,discord,vscode,github,tailwind)](https://skillicons.dev)
