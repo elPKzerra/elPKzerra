@@ -4,10 +4,10 @@
 Desenvolvedor **Full Stack** em formação.
 
 ## linguagens:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,mysql,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,mysql)](https://skillicons.dev)
 
 ## ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=figma,git,discord,vscode,github,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,git,discord,vscode,github,tailwind,nodejs)](https://skillicons.dev)
 
 ## comprometimento com o github 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elPKzerra&show_icons=true&theme=radical)
